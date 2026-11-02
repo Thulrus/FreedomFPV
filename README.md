@@ -1,6 +1,6 @@
 # Freedom FPV
 
-**Fly it in your browser: https://thulrus.github.io/Freedom/** (desktop or phone; on a phone, add it to your home screen for full-screen offline play).
+**Fly it in your browser: https://thulrus.github.io/FreedomFPV/** (desktop or phone; on a phone, add it to your home screen for full-screen offline play).
 
 A browser FPV drone simulator, mobile-first, for practicing real acro flying. It uses procedurally generated worlds. It is static files only, with no backend. The full spec is in [`docs/SPEC.md`](docs/SPEC.md).
 
